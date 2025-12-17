@@ -3,7 +3,7 @@ import requests
 import urllib.parse
 
 # List of admin user IDs
-admins = ["1323760864"]  # Replace with actual admin IDs
+admins = ["1323760864","8209292731"]  # Replace with actual admin IDs
 TOKEN = '5935490056:AAHW8E1skdr8to1C4KvxdCBO8yG0f2qe4WU'
 
 # Maximum allowed message size (4096 characters for Telegram)
